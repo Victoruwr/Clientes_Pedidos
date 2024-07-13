@@ -2,11 +2,11 @@
 
 * Banco utilizado MYSQL 8.3
 
-* O arquivo dump está dentro da pasta ..conf/Dump.sql
+* O arquivo dump está dentro da pasta .conf/Dump.sql
 
-* As configurações de acesso ao banco estão dentro da pasta ..conf/WK.ini, favor copiar o WK.ini para o mesmo local do executavel.
+* As configurações de acesso ao banco estão dentro da pasta .conf/WK.ini, favor copiar o WK.ini para o mesmo local do executavel.
 
-* A Dll está na pasta ..conf/LIBMYSQL.DLL, favor informar dentro do WK.ini o local que deve ser copiado a LIBMYSQL.DLL. 
+* A Dll está na pasta .conf/LIBMYSQL.DLL, favor informar dentro do WK.ini o local que deve ser copiado a LIBMYSQL.DLL. 
 
 
 
